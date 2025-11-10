@@ -30,7 +30,11 @@ Emotional Intelligence
 
 ## Experience 
 **Data Engineer**           
-Delimobil | 2023 August - Present           
+VK | 2025 August - Present   
+
+
+**Data Engineer**           
+Delimobil | 2023 August - 2025 August           
 As a Data Engineer, I help team of analytics with their scripts - refactoring, updating, speed boosting of execution and etc. and educating. I connect different new sources from backend (api, other bd ) to whole DWH combining them into a common structure using Data Vault 2.0. I write own scripts for changing backend data manipulation               
 
 **Data Engineer**           
