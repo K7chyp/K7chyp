@@ -21,12 +21,6 @@ SQL (clickhouse, vertica, mysql, memsql, postgresql, sqlite3)
 Data Vault 2.0, Anchor Modeling, HNHM etc           
 **Other**
 Git, ci/cd, trello, slack, unix, docker, airflow, jira, outlook, confluence           
-## Soft Skills
-Communication Skills           
-Leadership           
-Teamwork            
-Emotional Intelligence           
-
 
 ## Experience 
 **Data Engineer**           
